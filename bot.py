@@ -15,7 +15,8 @@ SPONSORS = [
     "RussiansDurov",
     "star_yum",
     "ygolokamika",
-    "spirix_nft"
+    "spirix_nft",
+    "shizonick"
 ]
 
 DATA_FILE = "data.json"

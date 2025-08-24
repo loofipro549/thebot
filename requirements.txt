@@ -1,1 +1,2 @@
-aiogram==3.0.0b7asyncio
+aiogram==2.25.1
+asyncio

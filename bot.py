@@ -11,7 +11,7 @@ API_TOKEN = "8493652517:AAF-0_XnnIflzh0lAx5mQisHdX3ILkAXcKE"
 
 # --- Настройки ---
 SPONSORS = [
-    "Vestelll1",
+    "S1eepy_Stars",
     "RussiansDurov",
     "star_yum",
     "ygolokamika",
